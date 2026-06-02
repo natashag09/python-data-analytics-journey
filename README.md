@@ -16,15 +16,20 @@ This repository documents my journey of learning Python and essential data analy
 
 ### Python Fundamentals
 
-* Strings
-* Lists
-* Tuples
-* Sets
-* Dictionaries
-* Functions
-* Loops
-* Exception Handling
-* File Handling
+- [x] Variables
+- [ ] Data Types
+- [ ] Type Casting
+- [ ] Input & Output
+- [ ] Operators
+- [ ] Strings
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+- [ ] Functions
+- [ ] Loops
+- [ ] Exception Handling
+- [ ] File Handling
 
 ### Data Analytics Libraries
 
@@ -39,5 +44,16 @@ Each folder contains practice exercises, notes, and code examples related to a s
 
 ## Progress
 
-Learning one topic at a time with regular commits and hands-on practice.
+### Day 01 - Variables
+
+Concepts Covered:
+- Variable Declaration
+- String Variables
+- Integer Variables
+- Float Variables
+- Boolean Variables
+- Multiple Assignment
+- Same Value Assignment
+- Variable Reassignment
+- Constant Naming Convention
 
