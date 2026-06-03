@@ -57,3 +57,21 @@ Concepts Covered:
 - Variable Reassignment
 - Constant Naming Convention
 
+### Day 02 - Data Types
+
+Concepts Covered:
+- int
+- float
+- string
+- boolean
+- complex
+- list
+- tuple
+- set
+- dictionary
+- type() function
+
+Practice:
+- Created variables using different data types
+- Inspected data types using type()
+- Compared mutable and immutable structures
