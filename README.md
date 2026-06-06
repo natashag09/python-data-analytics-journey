@@ -75,3 +75,17 @@ Practice:
 - Created variables using different data types
 - Inspected data types using type()
 - Compared mutable and immutable structures
+
+### Day 03 - User Input and Output
+
+Concepts Covered:
+- input()
+- print()
+- User interaction
+- Type conversion
+- f-strings
+- Simple calculator
+
+Practice:
+- User profile program
+- Calculator using user inputs
