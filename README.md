@@ -17,10 +17,10 @@ This repository documents my journey of learning Python and essential data analy
 ### Python Fundamentals
 
 - [x] Variables
-- [ ] Data Types
-- [ ] Type Casting
-- [ ] Input & Output
-- [ ] Operators
+- [x] Data Types
+- [x] Type Casting
+- [x] Input & Output
+- [x] Operators
 - [ ] Strings
 - [ ] Lists
 - [ ] Tuples
@@ -89,3 +89,15 @@ Concepts Covered:
 Practice:
 - User profile program
 - Calculator using user inputs
+
+### Day 04 - Operators 
+
+Concept Covered:
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+- Operator Precedence
+- Basic Problem Solving using Operators
