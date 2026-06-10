@@ -101,3 +101,13 @@ Concept Covered:
 - Membership Operators
 - Operator Precedence
 - Basic Problem Solving using Operators
+
+### Day 05 - Conditional Statements 
+
+Concept Covered:
+- if Statement
+- if-else Statement
+- if-elif-else Statement
+- Nested if Statements
+- Logical Conditions
+- Decision Making Programs
